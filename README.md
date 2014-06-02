@@ -4,7 +4,7 @@
 
 You'll need ruby and bundler.
 
-* `git clone git@github.com:rouanw/annotator-demo.git`
+* `git clone git@github.com:rouanw/jsinsa2014.git`
 * `bundle install`
 * `rake db:migrate`
 * `rails server`
@@ -12,7 +12,7 @@ You'll need ruby and bundler.
 
 ## Code you care about
 
-* The [JavaScript file](/app/assets/javascripts/posts.js) adding annotator and its plugins
+* The [JavaScript file](/app/assets/javascripts/application.js) adding annotator and its plugins
 * The [Rails controller](/app/controllers/annotations_controller.rb) that acts as a simple store backend
 
 ## Find out more about Annotator
